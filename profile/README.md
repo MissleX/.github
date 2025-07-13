@@ -1,7 +1,7 @@
 ![line gif](https://github.com/user-attachments/assets/d7acb31f-fc0e-4b58-8294-8c4fcae0362a)
 
 # MissileX 🚀
-
+## Aviation & Defense Tech
 **Next-Generation Defense Innovation — Built in Bangladesh**
 
 MissileX is a visionary defense technology organization focused on developing **advanced air-defense systems**, **stealth drones**, and **ballistic missile technology** to safeguard national sovereignty and empower Bangladesh with world-class defense capabilities.
@@ -30,7 +30,7 @@ To design, prototype, and deploy cutting-edge defense systems — from mini soli
 - **Electronics & Embedded**: STM32, Arduino, custom PCBs
 - **Aero Design**: SolidWorks, CATIA, ANSYS
 - **Programming**: C++, Python, Rust, Embedded C
-- **Simulations**: MATLAB, Simulink, X-Plane, JSBSim
+- **Simulations**: MATLAB, Simulink, X-Plane, JSBSim,PCB Design
 - **Web Stack (for dashboards & control systems)**: React, TailwindCSS, Node.js, MongoDB
 
 ---
@@ -50,13 +50,14 @@ We aim to:
 
 We’re actively seeking:
 - Aerospace Engineers
+- CSE/EEE/ME Interns
 - Embedded Systems Experts
 - Military Strategy Advisors
 - Government Liaisons
 - AI/Computer Vision Engineers
 
 👥 Interested in contributing or partnering with us?
-📧 Email: **defense@missilex.org**
+📧 Email: **missilex.org@gmail.com**
 
 ---
 
